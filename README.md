@@ -1,26 +1,26 @@
-# supercapacitor-performance-simulation
+supercapacitor-performance-simulation
 Python-based simulation and electrochemical analysis of supercapacitor performance.
 
 
-# Python-Based Simulation of Electrochemical Performance in Supercapacitors
+Python-Based Simulation of Electrochemical Performance in Supercapacitors
 
 A computational electrochemistry project developed in Python to simulate the charge–discharge behavior of supercapacitors and analyze key energy storage parameters including capacitance, energy density, and power density.
 
-## Features
+ Features
 - Charge–discharge simulation
 - Capacitance calculation
 - Energy and power density analysis
 - Voltage vs time visualization
 - Scientific plotting using Matplotlib
 
-## Technologies Used
+Technologies Used
 - Python
 - NumPy
 - SciPy
 - Pandas
 - Matplotlib
 
-## Project Structure
+Project Structure
 
 ```text
 supercapacitor-performance-simulation/
@@ -33,19 +33,19 @@ supercapacitor-performance-simulation/
 └── results/
 ```
 
-## Installation
+Installation
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Run Project
+Run Project
 
 ```bash
 python main.py
 ```
 
-## Research Relevance
+Research Relevance
 
 This project demonstrates applications of:
 - Computational Materials Science
@@ -53,7 +53,6 @@ This project demonstrates applications of:
 - Scientific Computing
 - Supercapacitor Performance Analysis
 
-## Author
-
-Durkhany  
+Author
+Zainab
 Research Interests: Energy Storage, Supercapacitors, Computational Materials Science
